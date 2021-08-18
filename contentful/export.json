@@ -345,8 +345,8 @@
   ],
   "locales": [
     {
-      "name": "English (United States)",
-      "code": "en-US",
+      "name": "Japanese (Japan)",
+      "code": "ja-JP",
       "fallbackCode": null,
       "default": true,
       "contentManagementApi": true,
